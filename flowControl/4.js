@@ -17,4 +17,5 @@ barCodeScanner("113");
   Product2
   Product3
   Product not found!
+  there is no break or return to stop the execution "falling through" the rest of the switch statement
 */

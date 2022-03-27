@@ -7,3 +7,7 @@ function isArrayEmpty(arr) {
 }
 
 isArrayEmpty([]);
+
+/*
+  Not Empty - becaues an array is truthy
+*/

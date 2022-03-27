@@ -1,4 +1,4 @@
-// code was already written
+// this code was already written using the forEach iteration method
 const rlSync = require("readline-sync");
 
 const age = require("../variables/age");

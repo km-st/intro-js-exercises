@@ -10,5 +10,6 @@ while ((counter = 1)) {
 }
 
 /*
-  the 
+  the assignment within the while condition will always resolve to a truthy value, 1
+  counter is also constantly reinitialised as 1; it thus never gets past 2 to break the loop
 */

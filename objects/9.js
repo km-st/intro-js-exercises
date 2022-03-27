@@ -17,7 +17,6 @@ console.log(qux); // hello
 
 /*
   because foo is mutable as an object, it's property .a gets changed
-  and argument1 is referencing foo. argument2 gets reassigned a new value
-  but it does not reference the original qux variable so that remains as 
-  'hello'
+  to 'hi' within bar. argument2 gets reassigned a new value but it 
+  does not reference the original qux variable so that remains as 'hello'
 */
